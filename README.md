@@ -10,7 +10,7 @@ Data science virtual internship programme by British Airways through Forage!
 - preparing a powerpoint representation to highlight our insights and analysis
 --------------------------------------------------------------------------------------------------------------------------------------
 
-# Task 2 :- Customer Bookings Ptrediction using Sci-kit Learn
+# Task 2 :- Customer Bookings Prediction using Sci-kit Learn
 - creating a classification model to predict customer buying behaviour
 - preparing a powerpoint representation to highlight our insights and analysis
 
